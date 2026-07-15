@@ -1,4 +1,4 @@
-2019.4.40f1
+2019.4.41f1
 
-Versão para Mobile 2019.4.40f1, mas pode usar uma versão atual e também pode ser usada com PC
+Versão para Mobile 2019.4.41f1, mas pode usar uma versão atual e também pode ser usada com PC
 ![Image](https://github.com/user-attachments/assets/ce389f95-10c5-468a-b1f8-ea120312880e)
